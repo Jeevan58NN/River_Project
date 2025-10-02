@@ -53,7 +53,7 @@ const Dashboard = () => {
         </div>
       </header>
 
-\      <div className="sensor-grid">
+     <div className="sensor-grid">
         <div className="sensor-card">
           <h2>🌡️ Temperature</h2>
           <p>{data.temperature} °C</p>
